@@ -1,0 +1,10 @@
+torch
+torchvision
+Pillow
+easyocr
+pymupdf
+numpy
+tqdm
+torchinfo
+opencv-python
+gradio
